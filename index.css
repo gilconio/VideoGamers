@@ -58,6 +58,15 @@ body{
     color: #007bff;
     
 }
+#decoracion2{
+    text-decoration: none;
+    color: white;
+}
+#decoracion2 span:hover{
+    background: #0062cc; 
+    border-color: #005cbf;
+}
+
 
 
 
